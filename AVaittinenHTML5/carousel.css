@@ -36,7 +36,7 @@ body {
   transform:rotate(90deg);
 }
     .carousel-item .third-slide {
-        transform: rotate(-360deg);
+        
         min-width: 50%;
         
        margin-left:400px;
