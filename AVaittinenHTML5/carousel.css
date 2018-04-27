@@ -43,6 +43,11 @@ body {
 .marketing .col-lg-4 {
   margin-bottom: 1.5rem;
   text-align: center;
+  
+}
+/*ympyr‰kuvan k‰‰nt‰minen*/
+.marketing .rounded-circle {
+    transform: rotate(90deg);
 }
 .marketing h2 {
   font-weight: 400;
