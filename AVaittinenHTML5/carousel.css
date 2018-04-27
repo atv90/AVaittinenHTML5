@@ -60,6 +60,10 @@ body {
 .container {
     color: black;
 }
+/*neliökuvan kääntäminen*/
+.marketing .col-md-5 {
+    transform: rotate(90deg);
+}
 
 /* Featurettes
 ------------------------- */
