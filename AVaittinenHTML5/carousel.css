@@ -27,19 +27,18 @@ body {
   height: 32rem;
   background-color: #777;
 }
-.carousel-item > img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  min-width: 100%;
-  height: 32rem;
-  transform:rotate(90deg);
-}
+    .carousel-item > img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        min-width: 100%;
+        height: 32rem;
+        transform: rotate(90deg);
+        height:1000px;
+    }
     .carousel-item .third-slide {
-        
         min-width: 50%;
-        
-       margin-left:400px;
+        margin-left: 100px;
     }
 
 
