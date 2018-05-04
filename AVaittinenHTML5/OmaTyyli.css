@@ -8,6 +8,8 @@
 }
 p {
     margin: 20px 20px;
+    text-align: justify;
+    margin-right: 20px;
 }
 h1 {
     font-size: 18px;
@@ -18,4 +20,10 @@ h1 {
 }
 a {
     margin-left: 10px;
+}
+#taustajoutsen{
+    margin-left: 650px;
+    margin-top: 10px;
+    
+    
 }
